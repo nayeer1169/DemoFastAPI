@@ -1,0 +1,14 @@
+Just as express is used for building the developer experience in js to build the API fastly , just like that thre is fastAPI is used for the same development in python for building the API.
+
+Its now officially one of the indutry standard for the people who choose data scientist , or data anlytics  ie python baseed web development they must learned fast API.
+
+All the industries are already migrated weather its deployment or othr things.
+
+FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints.
+
+FastAPI doesn't work alone its work with Uvicorn (Its basically a web server).
+
+so we will PYDANTIC , and typing for as the libraries.
+
+fastAPI is majorly works on decoraters(which our functions superpower).
+
